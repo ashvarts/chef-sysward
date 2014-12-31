@@ -1,6 +1,6 @@
 # sysward-cookbook
 
-Installs [http://sysward.com](Sysward) agent 
+Installs [Sysward](http://sysward.com] agent 
 
 ## Supported Platforms
 
